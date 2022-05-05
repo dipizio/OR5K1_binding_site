@@ -5,7 +5,7 @@
 The file in csv format contains Names and SMILEs of each inactive compounds used in this work.<br/>
 <br/>
 <br/>
-# Reference 
+Reference
 <br/>
 Title: Modeling the Orthosteric Binding Site of the G Protein-Coupled Odorant Receptor OR5K1<br/>
 <br/>
