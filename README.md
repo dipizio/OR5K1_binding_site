@@ -7,6 +7,6 @@ The file INACTIVES_dataset_OR5K1.csv in csv format contains Names and SMILEs of 
 
 Reference
 <br/>
-Nicoli A., Marcinek P. et. al Modeling the Orthosteric Binding Site of the G Protein-Coupled Odorant Receptor OR5K1
+Nicoli A., Marcinek P. et. al Modeling the Orthosteric Binding Site of the G Protein-Coupled Odorant Receptor OR5K1.
 <br/>
 
