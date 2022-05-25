@@ -17,7 +17,7 @@ OR5K1_IFD3_models.zip contains all the structures (in pdb format) reported in Ta
 <br/>
 
 
-Reference
+###Reference
 <br/>
 Nicoli A., Haag F. et. al Modeling the Orthosteric Binding Site of the G Protein-Coupled Odorant Receptor OR5K1.
 <br/>
