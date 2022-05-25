@@ -10,7 +10,7 @@ The file INACTIVES_dataset_OR5K1.csv in csv format contains Names and SMILEs of 
 Models with d < 0.4, AUC > 0.8 after IFD3. Structure indicate the name of the pdb file. We report AUC and EF15% values, as well as information about the clustering and predicted van der Waals (vdW, kcal/mol) contribution of L104 and L255 to the binding of compound 1.
 <br/>
 
-## Selected structured of the IFD3
+## Selected structures of the IFD3
 <br/>
 OR5K1_IFD3_models.zip contains all the structures (in pdb format) reported in Table S5 divided in two folders for AF2 and HM. Each pdb contains the OR5K1 refined models and the compound 1 (resname UNK, resid 900).<br/>
 
