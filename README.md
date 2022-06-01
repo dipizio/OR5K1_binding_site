@@ -2,12 +2,12 @@
 
 ## Data set: Inactive Molecules 
 <br/>
-The file INACTIVES_dataset_OR5K1.csv format contains Names and SMILEs of each inactive compound used in this work.<br/>
+The file INACTIVES_dataset_OR5K1.csv format contains Names and SMILES of each inactive compound used in this work.<br/>
 <br/>
 
 ## Data set: Active Molecules 
 <br/>
-The file ACTIVES_dataset_OR5K1.csv format contains Names and SMILEs of each active compound used in this work (Table 1).<br/>
+The file ACTIVES_dataset_OR5K1.csv format contains Names and SMILES of each active compound used in this work (Table 1).<br/>
 <br/>
 
 ## OR5K1 models
