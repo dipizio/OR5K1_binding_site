@@ -22,4 +22,5 @@ Nicoli A., Haag F. et. al Modeling the Orthosteric Binding Site of the G Protein
 Preprint available in BioRxiv at https://www.biorxiv.org/content/10.1101/2022.06.01.494157v1
 <br/>
 
+Zenodo
 [![DOI](https://zenodo.org/badge/489097111.svg)](https://zenodo.org/badge/latestdoi/489097111)
