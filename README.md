@@ -16,6 +16,7 @@ OR5K1 structural models obtained from homology modeling and AlphaFold2 after bin
 In the table OR5K1_IFD3_models.csv , for each structure, we report AUC and EF15% values, as well as information about the clustering and predicted van der Waals (vdW, kcal/mol) contribution of L104 and L255 to the binding of compound 1.
 <br/>
 
+## Molecular Dynamics
 The MD trajectories are deposited at <br/>
 <br/>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7182231.svg)](https://doi.org/10.5281/zenodo.7182231)
