@@ -20,8 +20,8 @@ In the table OR5K1_IFD3_models.csv , for each structure, we report AUC and EF15%
 The MD trajectories are deposited at <br/>
 <br/>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7182231.svg)](https://doi.org/10.5281/zenodo.7182231)
-
 <br/>
+
 ## Reference
 Nicoli A., Haag F. et. al Modeling the Orthosteric Binding Site of the G Protein-Coupled Odorant Receptor OR5K1 (under review). <br/>
 Preprint available in BioRxiv at https://www.biorxiv.org/content/10.1101/2022.06.01.494157v1
