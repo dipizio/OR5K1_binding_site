@@ -22,5 +22,6 @@ Nicoli A., Haag F. et. al Modeling the Orthosteric Binding Site of the G Protein
 Preprint available in BioRxiv at https://www.biorxiv.org/content/10.1101/2022.06.01.494157v1
 <br/>
 
-The MD trajectories are deposited <br/>
+The MD trajectories are deposited at <br/>
+<br/>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7182231.svg)](https://doi.org/10.5281/zenodo.7182231)
