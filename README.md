@@ -21,3 +21,5 @@ In the table OR5K1_IFD3_models.csv , for each structure, we report AUC and EF15%
 Nicoli A., Haag F. et. al Modeling the Orthosteric Binding Site of the G Protein-Coupled Odorant Receptor OR5K1 (submitted). <br/>
 Preprint available in BioRxiv at https://www.biorxiv.org/content/10.1101/2022.06.01.494157v1
 <br/>
+
+[![DOI](https://zenodo.org/badge/489097111.svg)](https://zenodo.org/badge/latestdoi/489097111)
