@@ -17,8 +17,7 @@ In the table OR5K1_IFD3_models.csv , for each structure, we report AUC and EF15%
 <br/>
 
 ## Molecular Dynamics
-The MD trajectories are deposited at     
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7182231.svg)](https://doi.org/10.5281/zenodo.7182231)
+The MD trajectories are deposited at    [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7182231.svg)](https://doi.org/10.5281/zenodo.7182231)
 <br/>
 
 ## Reference
