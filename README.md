@@ -11,7 +11,7 @@ The file ACTIVES_dataset_OR5K1.csv contains Names and SMILES of each active comp
 <br/>
 
 ## OR5K1 models
-- OR5K1 structural starting model obtained from homology modeling (HM_starting_model.pdb) and the AlphaFold2 database (AF2_starting_model.pdb) after protein preparation with compound 1.<br/>
+- OR5K1 structural starting models obtained from homology modeling (HM_starting_model.pdb) and the AlphaFold2 database (AF2_starting_model.pdb) after protein preparation with compound 1.<br/>
 
 - OR5K1 structural models obtained from homology modeling and AlphaFold2 after the first two stage of binding site refinement through induced-fit docking simulations (IDF1, IDF2) with compound 1 (OR5K1_IDF1_IDF2_models.zip).
 
