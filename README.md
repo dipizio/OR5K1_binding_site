@@ -29,4 +29,15 @@ Nicoli A., Haag F. et. al Modeling the Orthosteric Binding Site of the G Protein
 Article available at https://doi.org/10.1021/acs.jcim.2c00752
 <br/>
 
+## MD simulation of OR5K1 AF2 model
 
+</br>
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=iwK14eo-cv8">
+     <img 
+      src="https://img.youtube.com/vi/iwK14eo-cv8/maxresdefault.jpg" 
+      alt="" 
+      style="width:80%;">
+      </a>
+    </div>
+</br>
