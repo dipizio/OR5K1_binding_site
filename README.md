@@ -30,7 +30,7 @@ Article available at https://doi.org/10.1021/acs.jcim.2c00752
 <br/>
 
 ## MD simulation of OR5K1 AF2 model
-
+(Click on the image to see the youtube video)
 </br>
 <div align="center">
       <a href="https://www.youtube.com/watch?v=iwK14eo-cv8">
