@@ -25,7 +25,7 @@ The MD trajectories and input files are deposited at<br/>
 <br/>
 
 ## Reference
-Nicoli A., Haag F. et. al Modeling the Orthosteric Binding Site of the G Protein-Coupled Odorant Receptor OR5K1. JCIM 2023, 63, 7. <br/>
+Nicoli A., Haag F. et al. Modeling the Orthosteric Binding Site of the G Protein-Coupled Odorant Receptor OR5K1. JCIM 2023, 63, 7. <br/>
 Article available at https://doi.org/10.1021/acs.jcim.2c00752
 <br/>
 
